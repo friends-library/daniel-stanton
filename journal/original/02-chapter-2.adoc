@@ -1,7 +1,9 @@
 == Chapter II
 
-His voyage to Barbados,
-and labours there and at the adjacent Islands--Voyage from thence to Ireland.
+[.chapter-synopsis]
+* His voyage to Barbados
+* Labours there and at the adjacent Islands
+* Voyage from there to Ireland
 
 After I had settled my outward concerns, and placed my dear children to be taken care of,
 until it pleased God that we should meet again,

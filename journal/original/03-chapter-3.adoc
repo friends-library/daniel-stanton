@@ -1,7 +1,9 @@
 == Chapter III
 
-Landing at Kinsale in Ireland.--His travels and labours in that kingdom;
-also in England and Scotland, to the time of returning home.
+[.chapter-synopsis]
+* Landing at Kinsale in Ireland
+* His travels and labours in that kingdom
+* His travels in England and Scotland, to the time of returning home
 
 It was on the 24th day of the first month, 1749, in the evening,
 that we came to an anchor in this safe harbour of Kinsale.
