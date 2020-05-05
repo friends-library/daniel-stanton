@@ -1,7 +1,9 @@
 == Chapter II
 
-His voyage to Barbados,
-and labours there and at the adjacent Islands--Voyage from there to Ireland.
+[.chapter-synopsis]
+* His voyage to Barbados
+* Labours there and at the adjacent Islands
+* Voyage from there to Ireland
 
 After I had settled my outward concerns, and placed my dear children to be taken care of,
 until it pleased God that we should meet again,
@@ -203,7 +205,7 @@ the seamen were too careless and did not keep so strict a watch as they ought;
 but the captain, as he lay in his cabin, had so great an uneasiness on his mind,
 that he could not lay still any longer, and went towards the head of the vessel,
 and found that instead of being out at sea, we were near striking on the land;
-whereupon he immediately awaked the sailors, and they tacked the vessel about,
+whereupon he immediately awoke the sailors, and they tacked the vessel about,
 and were very watchful until the morning; thus we escaped that danger.
 
 In the morning it was very foggy; a storm arose, and we could not discover the harbour,
