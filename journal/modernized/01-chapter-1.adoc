@@ -9,11 +9,14 @@ ____
 He being dead, yet speaks.
 ____
 
-
 == Chapter I
 
-His birth and parentage--Apprenticeship--First coming forth in the ministry;--First
-journey to Rhode Island;--His marriage and second journey to New England, etc.
+[.chapter-synopsis]
+* His birth and parentage
+* Apprenticeship
+* First coming forth in the ministry
+* First journey to Rhode Island
+* His marriage and second journey to New England, etc.
 
 In a grateful sense of the many helps and great goodness of the Almighty to my soul,
 whereby he has been pleased from my young years to

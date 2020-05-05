@@ -1,7 +1,9 @@
 == Chapter IV
 
-His visiting meetings in Pennsylvania and New Jersey.--His fourth journey to
-New England.--His visit through the Southern Provinces to South Carolina, etc.
+[.chapter-synopsis]
+* His visiting meetings in Pennsylvania and New Jersey.
+* His fourth journey to New England.
+* His visit through the Southern Provinces to South Carolina, etc.
 
 I again took fresh encouragement to do my best endeavours,
 both with respect to temporal and spiritual things,
@@ -728,9 +730,16 @@ and a kind reception with my dear friends, whom I was glad to see once more,
 and enjoyed a share of peace to my own soul; may all praise, honour,
 and glory be given to Him the great and awful Majesty in heaven!
 
-Epistle to Friends at their monthly meeting at Perquimans in North Carolina, Philadelphia.
-Tenth month 2nd, 1761.
+[.embedded-content-document.epistle]
+--
 
+[.letter-heading]
+Epistle to Friends at their monthly meeting at Perquimans in North Carolina.
+
+[.signed-section-context-open]
+Philadelphia, Tenth month 2nd, 1761.
+
+[.salutation]
 Dear Friends,
 
 In a measure of the same love that attended my mind when present in body among you,
@@ -823,6 +832,10 @@ for in due time we shall reap if we faint not.`"
 In true love I salute you, and wish that grace, mercy and peace may increase,
 and be multiplied among you.
 
+[.signed-section-closing]
 Being a real lover of Zion`'s prosperity,
 
-Daniel Stanton,
+[.signed-section-signature]
+Daniel Stanton.
+
+--
