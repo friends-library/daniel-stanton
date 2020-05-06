@@ -348,7 +348,7 @@ his wife being much afflicted with a cancer,
 by which it was said she had lost one of her eyes, and almost the sight of the other,
 but was in a patient frame of mind.
 The next day I went to Salem to the burial of the wife of John Mason,
-on which occasion we were fevoured with an awful solemn meeting;
+on which occasion we were favoured with an awful solemn meeting;
 went home with Samuel Nicholson,
 and the next day had a solid sitting with an afflicted
 family in our way to Lower Alloways creek meeting,
@@ -408,11 +408,19 @@ and on my return the youths`' meeting at Pilesgrove, which was large,
 and both of them tending to solid satisfaction;
 I had also some comfortable meetings in some families.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 Epistle to Friends at their Quarterly Meeting at New Garden in North Carolina.
 
+[.signed-section-context-open]
 Philadelphia, Ninth month 21st, 1767.
 
-Dear Friends,--In true and brotherly love, I take this opportunity to salute you,
+[.salutation]
+Dear Friends,
+
+In true and brotherly love, I take this opportunity to salute you,
 having been desirous, according to my measure,
 that the Lord`'s glorious work and truth may prosper in your parts,
 and prevail to the glory and honour of his most excellent name and praise,
@@ -473,7 +481,10 @@ cxxxiii.
 
 In the love unfeigned, I conclude, and am your real friend,
 
+[.signed-section-signature]
 Daniel Stanton.
+
+--
 
 After this journey I was at several meetings in this province and New Jersey,
 some of which were large and I hope beneficial to the well-minded;

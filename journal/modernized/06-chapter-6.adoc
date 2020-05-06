@@ -1,13 +1,19 @@
 == Chapter VI
 
-Testimony of Daniel Stanton and of Benjamin Trotter
+[.chapter-synopsis]
+* Testimony of Daniel Stanton
+* Testimony of Benjamin Trotter
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 The Testimony of the monthly meeting of Friends in Philadelphia,
 concerning our dearly beloved friend, Daniel Stanton.
 
-When John the divine was in exile in the isle of Patmos, "`He heard a voice from heaven,
-saying.
-Write,--Blessed are the dead, who die in the Lord, from henceforth, yes says the spirit,
+When John the divine was in exile in the isle of Patmos, he heard a voice from heaven,
+saying,
+'`Write,--Blessed are the dead, who die in the Lord, from henceforth, yes says the spirit,
 that they may rest from their labours,
 and their works do follow them;`" which we believe
 now is the portion of our worthy friend,
@@ -252,17 +258,26 @@ His body was the next day attended by a large number of people
 of various religious denominations to our meeting house,
 and afterwards interred in Friends burial ground in this city.
 
+[.signed-section-context-close]
 Signed on behalf, and by appointment of our monthly meeting, held in Philadelphia,
 by adjournment, the 2nd of the eighth month 1770.
 
+[.signed-section-signature]
 James Pemberton, Clerk.
 
-* * *
+--
+
+[.asterism]
+'''
 
 There being no other written memorial of our friend Benjamin Trotter,
 between whom and Daniel Stanton, a long uninterrupted friendship subsisted,
 it is thought the subjoining the following here, may be acceptable to Friends in general.
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 The Testimony of the monthly meeting of Friends in Philadelphia,
 concerning our beloved friend and brother, Benjamin Trotter, who was born in this city,
 in the ninth month of the year, 1699.
@@ -346,7 +361,11 @@ to our meeting-house in High-street, on the 24th of the third month, 1768,
 and after a solemn meeting, in which several living testimonies were borne,
 was interred in our burial ground in this city.
 
+[.signed-section-context-close]
 Signed on behalf, and by appointment of our monthly meeting, held in Philadelphia,
 by adjournment, the 4th day of the eighth month, 1769.
 
+[.signed-section-signature]
 James Pemberton, Clerk.
+
+--
