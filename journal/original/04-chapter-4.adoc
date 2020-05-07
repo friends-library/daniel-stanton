@@ -1,8 +1,8 @@
 == Chapter IV
 
+[.chapter-synopsis]
 * His visiting meetings in Pennsylvania and New Jersey.
-* His fourth journey to
-New England.
+* His fourth journey to New England.
 * His visit through the Southern Provinces to South Carolina, etc.
 
 I again took fresh encouragement to do my best endeavours,
@@ -733,8 +733,10 @@ and glory be given to Him the great and awful Majesty in heaven!
 [.embedded-content-document.epistle]
 --
 
-[.signed-section-context-open]
+[.letter-heading]
 Epistle to Friends at their monthly meeting at Perquimans in North Carolina, Philadelphia.
+
+[.signed-section-context-open]
 Tenth month 2nd, 1761.
 
 [.salutation]
