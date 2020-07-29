@@ -20,8 +20,11 @@ with whom I had great nearness in the love of the Heavenly Father.
 Many of us were renewedly united in that love which brought us near to himself,
 and made known unto us the way that leads unto life and peace, as in the beginning.
 
+[.small-break]
+'''
+
 In the year 1753, having the unity of my dear Friends at home,
-my loving friend Isaac Zane being my companion, I went to Long-Island,
+my loving friend Isaac Zane being my companion, I went to Long Island,
 and visited all the meetings of Friends there,
 and some places where meetings were not usually held, or not very often, at Jamaica,
 and several other places.
@@ -31,10 +34,13 @@ life, and blessed presence,
 which nearly affected my heart with gospel fellowship to his children and people thereaway,
 and returned in the possession of great satisfaction in my own bosom.
 
+[.small-break]
+'''
+
 In the year 1754, I went in the unity of Friends,
 with my dear friend Israel Pemberton as far as Boston in New England;
 and as we went forward were at a comfortable meeting at New York;
-from whence we went by water to Newport, Rhode-Island,
+from whence we went by water to Newport, Rhode Island,
 and arrived there the evening before the yearly meeting,
 at which were our friends Catherine Payton from England, and Mary Peisley from Ireland.
 The gathering of people was great and much mixed,
@@ -51,7 +57,7 @@ stopped at an Island in our way, but being detained by contrary winds,
 did not reach the meeting so soon as we desired.
 We got there before it was over,
 and met again with our two women friends before mentioned,
-and there being many Friends on this Island,
+and there being many Friends on this island,
 it was a comfort to me that I had an opportunity of seeing them once more.
 I esteem it a mercy from the Divine Being,
 for it seemed as I thought a risk of our lives to venture as we
@@ -69,11 +75,14 @@ Friends in their visit to the other parts of New England,
 and my friend Israel Pemberton and myself returned to Newport,
 where we were at several meetings; one was at the burial of the wife of Samuel Holmes,
 and in the main they were solid meetings.
-We proceeded homewards through Connecticut, and got to New York, Staten-Island,
+We proceeded homewards through Connecticut, and got to New York, Staten Island,
 and New Jersey, having a large comfortable meeting some distance from Joseph Shotwell`'s;
 from whence we came pretty directly home through the tender mercies of the Lord;
 this journey nearly united our hearts to each other,
 and in his goodness he was pleased to afford some degree of peace to my mind.
+
+[.small-break]
+'''
 
 In the year 1755, I visited most of the meetings in Bucks county,
 some of which I had not been at for several years,
@@ -110,6 +119,9 @@ I also accompanied our dear friend Catherine Payton, with several friends of our
 to visit the families of many of our fellow members,
 which service I think it may be thankfully said the Lord owned,
 the states and conditions of the people being suitably spoken to.
+
+[.small-break]
+'''
 
 In the year 1756, I visited several meetings in New Jersey, as Mount Holly, Burlington,
 Old Springfield, Mansfield, Crosswicks, Bordentown, and Upper Springfield,
@@ -202,10 +214,13 @@ and his dear beloved Son Christ Jesus; and at times in those meetings,
 the darkness would pass away, and the true light would shine,
 to the renewing the hope of the humble; and the Lord,
 magnified be his name! prospered the endeavours of those faithful labourers,
-who had at heart`" this desirable work of peace,
+who had at heart this desirable work of peace,
 and I believe they will be heirs of that blessing,
 wherein Christ termeth the peace makers "`Blessed,`"
 and calleth them the "`children of God.`"
+
+[.small-break]
+'''
 
 In the year 1757, I met with a near trial in the death of my eldest daughter Abigail,
 who departed this life the 23rd day of the fifth month,
@@ -365,8 +380,7 @@ where we had small meetings.
 The first was a solid season; the others were attended with hard labour,
 which I hope was received in love.
 After the last meeting, we went forward, crossing the river Potomac into Virginia;
-the next meetings were Fairfax, Goose creek.
-Potts or the Gap,
+the next meetings were Fairfax, Goose creek, Potts or the Gap,
 some of which were largely favoured with solid comfort and satisfaction,
 there appearing many dear Friends with whom I had near unity in spirit.
 
@@ -378,7 +392,7 @@ the next day to William Jolliff`'s beyond Opeckan,
 which after a long cold ride we reached, and were received in love.
 Next day we were at Hopewell meeting, being the first-day of the week,
 and at their monthly meeting the day following, both which were solid seasons;
-the next meeting was at Maurice Rees`'s,
+the next meeting was at Maurice Rees`',
 in which there appeared to be a necessity for an amendment in +++[+++walking in]
 the way of Truth.
 Thence we came to the widow Lupton`'s at Back creek, and had two meetings,
@@ -452,7 +466,7 @@ then we went home with Joseph Maddock and lodged,
 and next had a meeting at the Hawfields, and the Spring, which though small,
 I thought were good meetings, and Friends glad to see us.
 
-From Thomas Lindley`'s, where We lodged, we went to the monthly meeting at Cane creek,
+From Thomas Lindley`'s, where we lodged, we went to the monthly meeting at Cane creek,
 and were also at their first-day meeting, which were large,
 but times of suffering to my mind; from thence we proceeded to Rocky river, the Center,
 and Deep river, some of which meetings were large,
@@ -637,7 +651,7 @@ After this meeting we came to John Pleasants`', kinsman to the last mentioned Jo
 and lodged one night, whom we had met with in North Carolina,
 and was a loving friend and brother to us; he was with us at many meetings,
 and his company valuable and serviceable to me, and my spirit was nearly united to him.
-From his house we went to White-Oa`'k-Swamp meeting,
+From his house we went to White-Oak-Swamp meeting,
 which was large and to good satisfaction; the next day we were at Wainoak meeting,
 where came a colonel and many people of note, both Friends and others,
 who behaved soberly, and the meeting ended well.
@@ -673,7 +687,7 @@ it being the last meeting in Virginia,
 only a solid season at a Friend`'s house where we lodged;
 then went forward with Micajah Terrell for the yearly meeting at West river in Maryland.
 
-We crossed Rappahannoc and Potomac rivers, and another ferry,
+We crossed Rappahannock and Potomac rivers, and another ferry,
 and got to the Cliffs to William Harris`'s, who received us kindly,
 after a long wearisome ride; next day we had a meeting at the Cliffs,
 at which were many people, it was a solid time,
@@ -744,8 +758,8 @@ Dear Friends,
 
 In a measure of the same love that attended my mind when present in body among you,
 I take this freedom now to salute you in spirit,
-wishing the health and prosperity of the precious Truth in every particular
-branch thereof We as a people profess it to lead us into all truth,
+wishing the health and prosperity of the precious Truth in every particular branch thereof.
+We as a people profess it to lead us into all truth,
 which is the greatest profession in the world,
 and is the most sure and safe for all the truly living and
 acting members of the mystical body and church of Christ,
